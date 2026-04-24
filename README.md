@@ -1,7 +1,7 @@
 # DyikanAI — Smart Greenhouse Control System
 
 **University of Central Asia · Naryn, Kyrgyzstan · 2026**  
-**Authors:** Saadat Orozova 
+**Author:** Saadat Orozova 
 
 Low-cost, open-source smart greenhouse automation system built for resource-constrained regions. Runs entirely on local hardware, no internet required. Designed and tested in Naryn, Kyrgyzstan.
 
